@@ -18,6 +18,15 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+
+## Requirements
+
+Versions:
+
+- `node@v18.19.0`
+- `npm@10.2.3`
+
+
 ## Development process
 
 There are following branches in the repository:
